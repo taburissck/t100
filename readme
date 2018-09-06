@@ -8,4 +8,4 @@ insert dev readme
 insert master readme
 insert test readme
 
-dev insert no fast
+dev insert no fast  bug
